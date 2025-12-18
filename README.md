@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 5b930535417e1b7a8a24e075c5aa3b3865f02127
 # Reqres Postman Collection
 
 A Postman collection for exercising the public **Reqres** REST API with ready‑made tests, sample payloads, environment variables, and example flows for CRUD, authentication, and delayed responses.
@@ -201,9 +198,3 @@ Create a file named **`Reqres.postman_environment.json`** with the following con
 *   The API key auth scheme (`x-api-key`) is included only to demonstrate header‑based auth patterns; it’s not needed for Reqres.
 *   Error‑path tests assert specific messages like `"Missing password"` for clarity and consistency.
 *   You can freely tweak variables (e.g., change `userId`, set custom delays) to explore other scenarios.
-
-<<<<<<< HEAD
-***
-=======
->>>>>>> 5b930535417e1b7a8a24e075c5aa3b3865f02127
-
